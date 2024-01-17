@@ -1,4 +1,4 @@
-# Neural Msater extension for Automatic1111 Web UI
+# Neural Master Inpainter extension for Automatic1111 Web UI
 
 The extension is a preprocessor and runs before the main SD loop.
 The extension is compatible with all models, embeddings, controlnet models and other extensions to SD, 
